@@ -1,0 +1,84 @@
+#pho
+{
+    background-color: #FBC4F0;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-right: 650px;
+    margin-left: 110px;
+    box-shadow: 5px 5px 18px rgb(56, 54, 54);
+}
+#cho
+{
+    background-color: #FBC4F0;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-right: 650px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 18px rgb(56, 54, 54);
+}
+#clo
+{
+    background-color: #FBC4F0;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-right: 650px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 18px rgb(56, 54, 54);
+}
+#sco
+{
+    background-color: #FBC4F0;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-right: 650px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 18px rgb(56, 54, 54);
+}
+#t
+{
+    background-color: #FBC4F0;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-right: 650px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 18px rgb(56, 54, 54);
+}
+#phone
+{
+    width: 250px;
+    height: 300px;
+    border-radius: 30px;
+}
+#chock
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+}
+#clock
+{
+    width: 250px;
+    height: 270px;
+    border-radius: 30px;
+}
+#tv
+{
+    width: 320px;
+    height: 300px;
+    border-radius: 30px;
+}
+#scocks
+{
+    width: 250px;
+    height: 300px;
+    border-radius: 30px;
+}
+#lab
+{
+    font-size: 24px;
+}
